@@ -1,0 +1,13 @@
+Introduction to Go
+
+* Agenda
+
+
+- General facts
+- Running a hello world
+- Reasons to use Go
+- Packaging and tooling
+- Type system
+- Data structures
+- Interfaces
+- Concurrency
